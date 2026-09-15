@@ -1,0 +1,16 @@
+# Banco de dados local
+db.sqlite3
+db.sqlite3-journal
+
+# Ambientes virtuais e variáveis secretas
+.env
+.venv
+env/
+venv/
+
+# Arquivos compilados do Python
+*.pyc
+__pycache__/
+
+# Arquivos de mídia enviados por usuários
+media/
